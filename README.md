@@ -16,11 +16,11 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
-<a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://github.com/Psychokillarman/Frwdit"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 Deploy in your vps
 ```sh
-git clone https://github.com/Jijinr/Frwdit
+git clone https://github.com/Psychokillarman/Frwdit
 cd Frwit
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
